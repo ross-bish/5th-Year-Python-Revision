@@ -2,9 +2,9 @@
 
 ![image](image_2.png)
 
-The follwoing problems are designed to try to help you revise and recap on topics we have covered throughout the year.
+The following problems are designed to try to help you revise and recap on topics we have covered throughout the year.
 
-## Problems 
+## Problems ⚔️
 1. Write a program that asks the user to enter three numbers. The program should print the largest number.
    
 2. Your cousin, who lives in Chicago, tells you that the temperature there on a July day can be as high as 87 degrees Fahrenheit. 
@@ -15,7 +15,11 @@ nearest degree.
     - Display the answer with suitable text.
 <details>
   <summary> 👀 Hint</summary>
-  Use the formula: Celsius = (5/9) * (Fahrenheit - 32)
+   
+  ````
+   Use the formula: Celsius = (5/9) * (Fahrenheit - 32)
+   ````
+
 </details>
 
 
@@ -42,14 +46,22 @@ nearest degree.
 12. Write a program that generates a list of the first 10 Fibonacci numbers and prints the list.
 <details>
   <summary> 👀 Hint</summary>
+   
+````
   In mathematics, the Fibonacci sequence is a sequence in which each number is the sum of the two preceding ones.
+   
+````
+
 </details>
 
 
 13. Write a program that asks the user to enter a number and prints all the prime numbers up to that number.
 <details>
   <summary> 👀 Hint</summary>
+   
+````
  A prime number is a whole number greater than 1 whose only factors are 1 and itself.
+````
 </details>
 
 

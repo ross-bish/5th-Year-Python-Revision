@@ -8,7 +8,7 @@ The following problems are designed to try to help you revise and recap on topic
 1. Write a program that asks the user to enter three numbers. The program should print the largest number.
    
 2. Your cousin, who lives in Chicago, tells you that the temperature there on a July day can be as high as 87 degrees Fahrenheit. 
-Write a program to covert this temperature to 
+Write a program to convert this temperature to 
 degrees Celsius. Give your answer rounded to the 
 nearest degree.
 
